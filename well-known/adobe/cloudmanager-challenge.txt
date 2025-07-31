@@ -1,2 +1,1 @@
-well-known/adobe/cloudmanager-challenge.txt
 e3a77fc1-9cac-444b-9c1a-3b0372b62a4a
